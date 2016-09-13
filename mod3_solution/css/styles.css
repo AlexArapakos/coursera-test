@@ -35,8 +35,6 @@ body {
     border: 1.5px solid #557c3e;
 }
 
-/* End of Header */
-
 /* Content */
 h2 {
     margin-bottom: 30px;
@@ -58,4 +56,3 @@ article {
 #beef{
     background-color: lightgreen;
 }
-/* Enf of Content */
